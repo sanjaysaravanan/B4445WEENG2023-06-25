@@ -28,13 +28,17 @@ Topics:
 
 Task: 
 
-Day 21:
-Pricing Cart
-https://startbootstrap.com/previews/shop-homepage
+Task Day 21:
+  Pricing Cart
+  https://startbootstrap.com/previews/shop-homepage
 
-2023-06-25 to 2023-07-01
-** Leave the Interaction like add to cart remove **
-Just achieve UI Design using react, jsx, css ( css files, module-css, inline style ( last option inlint style )  )
+  2023-06-25 to 2023-07-01
+  ** Leave the Interaction like add to cart remove **
+  Just achieve UI Design using react, jsx, css ( css files, module-css, inline style ( last option inlint style )  )
+
+Second Task:
+  Revise the recording and notes given
+
 
 
 Next Session:
