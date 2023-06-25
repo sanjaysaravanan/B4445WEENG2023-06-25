@@ -1,0 +1,45 @@
+
+Topics:
+
+  passing data as props/attribute for component tag
+
+  css modules
+    why css modules
+    
+    how to use css modules
+  
+  Organizing folder:
+    Components folder to Organize all the components separately
+
+  Working with array lists
+
+  conditional rendering
+    using &&
+    using ternary operator ?
+
+  handling events
+
+
+  Hooks: handles the re-render - Intro
+    state:
+    props vs state
+
+  
+
+Task: 
+
+Day 21:
+Pricing Cart
+https://startbootstrap.com/previews/shop-homepage
+
+2023-06-25 to 2023-07-01
+** Leave the Interaction like add to cart remove **
+Just achieve UI Design using react, jsx, css ( css files, module-css, inline style ( last option inlint style )  )
+
+
+Next Session:
+Hooks: handles the re-render - Deep Dive
+  state:
+  props vs state
+usage of keys in listing rendering
+codesandbox
