@@ -33,7 +33,7 @@ Task Day 21:
   https://startbootstrap.com/previews/shop-homepage
 
   2023-06-25 to 2023-07-01
-  ** Leave the Interaction like add to cart remove **
+  ** Leave the Interaction like add to cart, remove from cart **
   Just achieve UI Design using react, jsx, css ( css files, module-css, inline style ( last option inlint style )  )
 
 Second Task:
