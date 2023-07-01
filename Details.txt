@@ -5,7 +5,7 @@ Topics:
 
   css modules
     why css modules
-    
+    modularized css like object which creates an unique name for class name in modules
     how to use css modules
   
   Organizing folder:
